@@ -5,12 +5,11 @@ from telebot import types
 import theme_markup
 
 bot = telebot.TeleBot('5930122900:AAG0d2Wxllm1Z5cb6E3AFDXBxM3czITkBzc')
-
-main_menu_message = 'Welcome to main menu'
-cake_menu_message = 'This is our menu of cakes'
-offers_menu_message = 'See our special offers'
-custom_cake_menu_message = 'Learn more about our custom cake'
-last_order_delivery_status_message = 'Here is the information about your order'
+main_menu_message = 'Hello! You are in the main menu'
+cake_menu_message = 'Here you can choose your favourite cake'
+offers_menu_message = 'See what are our special offers today'
+custom_cake_menu_message = 'More options for making your cake uniquely'
+last_order_delivery_status_message = 'This is what you ordered last time'
 order_history_message = 'Here is your order history'
 
 
