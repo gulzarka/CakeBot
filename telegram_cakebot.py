@@ -8,7 +8,7 @@ bot = telebot.TeleBot('5930122900:AAG0d2Wxllm1Z5cb6E3AFDXBxM3czITkBzc')
 main_menu_message = 'Hello! You are in the main menu'
 cake_menu_message = 'Here you can choose your favourite cake'
 offers_menu_message = 'See what are our special offers today'
-custom_cake_menu_message = 'More options for making your cake uniquely'
+custom_cake_menu_message = 'More options for making your dream cake'
 last_order_delivery_status_message = 'This is what you ordered last time'
 order_history_message = 'Here is your order history'
 
